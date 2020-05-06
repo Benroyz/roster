@@ -498,7 +498,7 @@
       "confTeams" : [
         {
           "abbreviation" : "CLEM",
-          "prestige" : "100",
+          "prestige" : "99",
           "hexColor" : "#FFFDD0",
           "rival" : "NCST",
           "headCoach" : {
